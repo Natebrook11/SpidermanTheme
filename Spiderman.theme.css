@@ -70,7 +70,7 @@
   transform: scale(1.1);
 }
 :root {
-	--app-bg: url(https://images.unsplash.com/photo-1514828260103-1e9bf9a58446?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyMzUzNjkyfHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
+	--app-bg: url(https://wallup.net/wp-content/uploads/2016/01/287083-landscape-silhouette-clouds-sea-palm_trees.jpg);
 }
 
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/user-icons.css");
